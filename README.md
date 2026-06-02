@@ -1,6 +1,6 @@
 # calculator
--This will perform arithmetic opertations
-    Addition
-    Subtraction
-    Division
-    Multiplication
+-This will perform arithmetic opertations<br>
+    Addition<br>
+    Subtraction<br>
+    Division<br>
+    Multiplication<br>
